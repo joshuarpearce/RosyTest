@@ -1,0 +1,9 @@
+C:\Users\joshu\source\repos\RosyTest\TestGenerator\bin\Debug\netstandard2.0\TestGenerator.deps.json
+C:\Users\joshu\source\repos\RosyTest\TestGenerator\bin\Debug\netstandard2.0\TestGenerator.dll
+C:\Users\joshu\source\repos\RosyTest\TestGenerator\bin\Debug\netstandard2.0\TestGenerator.pdb
+C:\Users\joshu\source\repos\RosyTest\TestGenerator\obj\Debug\netstandard2.0\TestGenerator.AssemblyInfoInputs.cache
+C:\Users\joshu\source\repos\RosyTest\TestGenerator\obj\Debug\netstandard2.0\TestGenerator.AssemblyInfo.cs
+C:\Users\joshu\source\repos\RosyTest\TestGenerator\obj\Debug\netstandard2.0\TestGenerator.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\RosyTest\TestGenerator\obj\Debug\netstandard2.0\TestGenerator.dll
+C:\Users\joshu\source\repos\RosyTest\TestGenerator\obj\Debug\netstandard2.0\TestGenerator.pdb
+C:\Users\joshu\source\repos\RosyTest\TestGenerator\obj\Debug\netstandard2.0\TestGenerator.csprojAssemblyReference.cache

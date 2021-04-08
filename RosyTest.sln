@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RosyTest", "RosyTest\RosyTest.csproj", "{59781C96-1A47-4469-B0FB-CD43BCADEFBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGenerator", "TestGenerator\TestGenerator.csproj", "{0C6B25AA-CAE9-4681-BC68-380A22998171}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3A9F0226-F3A1-43E3-8988-74A4DE2A8A9B}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59781C96-1A47-4469-B0FB-CD43BCADEFBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59781C96-1A47-4469-B0FB-CD43BCADEFBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59781C96-1A47-4469-B0FB-CD43BCADEFBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59781C96-1A47-4469-B0FB-CD43BCADEFBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C6B25AA-CAE9-4681-BC68-380A22998171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C6B25AA-CAE9-4681-BC68-380A22998171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C6B25AA-CAE9-4681-BC68-380A22998171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C6B25AA-CAE9-4681-BC68-380A22998171}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DBB962C-4E95-4E7B-8ABA-9EAAEACF2B5B}
+	EndGlobalSection
+EndGlobal

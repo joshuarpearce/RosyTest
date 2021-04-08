@@ -1,0 +1,4 @@
+C:\Users\joshu\source\repos\RosyTest\RosyTest\obj\Debug\netcoreapp3.1\RosyTest.AssemblyInfoInputs.cache
+C:\Users\joshu\source\repos\RosyTest\RosyTest\obj\Debug\netcoreapp3.1\RosyTest.AssemblyInfo.cs
+C:\Users\joshu\source\repos\RosyTest\RosyTest\obj\Debug\netcoreapp3.1\RosyTest.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\RosyTest\RosyTest\obj\Debug\netcoreapp3.1\RosyTest.csprojAssemblyReference.cache
